@@ -1,0 +1,14 @@
+{
+  "name": "**prompt-för-e-handel/webshop**-skapa-en-modern-webshop-för-[produktkategori].-clean-design-med-fok",
+  "version": "1.0.0",
+  "description": "**Prompt för E-handel/Webshop**\n\nSkapa en modern webshop för [produktkategori]. Clean design med fokus på enkel köpupplevelse.\n\n**Måste ha:**\n- Produktgalleri med filter/sortering\n- Detaljsidor med bilder, pris, beskrivning\n- Varukorg och smidig checkout\n- Säker betalning (Klarna/Swish/kort)\n- Responsiv för mobil/desktop\n- Sökfunktion\n- Kundkonto med orderhistorik\n\n**Extra:**\n- Rekommenderade produkter\n- Kundrecensioner\n- Lagerstatus\n- Nyhetsbrev-signup\n- Kampanjer/rabattkoder\n\nMålgrupp: [definiera målgrupp]\nStil: [minimalistisk/färgglad/premium/ungdomlig]\nFokus: Snabb laddning, enkel navigation, säker betalning.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
